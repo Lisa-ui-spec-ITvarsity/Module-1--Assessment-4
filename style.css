@@ -1,0 +1,21 @@
+
+table{
+    border-collapse: collapse;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-style:solid;
+    border-color:#151515;
+    border-width: 1px;
+    color:#FF0080;
+    background-color: lightgray;
+
+}
+ 
+th{
+     font-weight:800;
+    background-color:#848484;
+    color:#ffffff;
+}
+
+caption{
+    font-weight:900;
+}
